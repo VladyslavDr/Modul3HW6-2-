@@ -1,0 +1,10 @@
+﻿{
+  "LoggerConfig": {
+    "DirectoryName": "Logs\\",
+    "BackUpDirectoryName": "BackUp\\",
+    "FileExtension": ".txt",
+    "FileNameFormat": "hh.mm.ss dd.MM.yyyy",
+    "TimeFormat": "hh:mm:ss",
+    "NumbeOfRowsToBackUp": 15
+  }
+}
